@@ -10,7 +10,7 @@
 
 # FILTER PROJECT
 
-## FULLSTACK PRACTICE PROJECT NO: 1
+## FULLSTACK PRACTICE PROJECT NO: 19
 
 1. A fullstack version of my previous frontend project to practice my skills using Javascript, NodeJS, ExpressJS, HTML, CSS.
 
